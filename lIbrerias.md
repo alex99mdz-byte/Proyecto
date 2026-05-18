@@ -1,3 +1,4 @@
+DATASETS
 https://www.kaggle.com/datasets/tristanzhang32/ai-generated-images-vs-real-images
 chat con chatgpt
 https://chatgpt.com/share/6a0a8cca-fe6c-83e8-9715-70221c4abc3a
