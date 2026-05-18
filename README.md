@@ -1,0 +1,2 @@
+# Proyecto
+Deteccion de IA
