@@ -16,3 +16,6 @@ DetectorIA/
 ├── train.py
 ├── predict.py
 └── interfaz.py
+
+AGE https://www.kaggle.com/datasets/trainingdatapro/age-detection-human-faces-18-60-years/data?select=train
+EMOTION https://www.kaggle.com/datasets/tapakah68/facial-emotion-recognition
